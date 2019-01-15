@@ -16,7 +16,7 @@
 - [X] [Kattis nastyhacks](https://open.kattis.com/problems/nastyhacks)
 ### 簡單題
 - [X] [Uva 00621](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=562)
-- [ ] [Uva 01641](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=4516)
+- [X] [Uva 01641](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=4516)
 - [X] [Uva 10114](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=1055)
 - [X] [Uva 10300](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=1241)
 - [X] [Uva 10963](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=1904)
