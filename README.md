@@ -217,7 +217,7 @@
 - [ ] [Kattis arbitrage](https://open.kattis.com/problems/arbitrage)
 - [ ] [Uva 11047](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=1988)
 ### 流
-- [ ] [Uva 11082](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=2023)
+- [X] [Uva 11082](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=2023)
 - [ ] [Kattis tomography](https://open.kattis.com/problems/tomography)
 - [ ] [Kattis jupiter](https://open.kattis.com/problems/jupiter)
 - [ ] [Kattis congest](https://open.kattis.com/problems/congest)
