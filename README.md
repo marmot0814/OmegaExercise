@@ -21,10 +21,10 @@
 - [X] [Uva 10300](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=1241)
 - [X] [Uva 10963](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=1904)
 - [X] [Kattis batterup](https://open.kattis.com/problems/batterup)
-- [ ] [Kattis boundingrobot](https://open.kattis.com/problems/boundingrobot)
-- [ ] [Kattis cold](https://open.kattis.com/problems/cold)
-- [ ] [Kattis earlywinter](https://open.kattis.com/problems/earlywinter)
-- [ ] [Kattis hangingout](https://open.kattis.com/problems/hangingout)
+- [X] [Kattis boundingrobot](https://open.kattis.com/problems/boundingrobots)
+- [X] [Kattis cold](https://open.kattis.com/problems/cold)
+- [X] [Kattis earlywinter](https://open.kattis.com/problems/earlywinter)
+- [X] [Kattis hangingout](https://open.kattis.com/problems/hangingout)
 ### 比簡單題難一些
 - [ ] [Uva 00119](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=55)
 - [ ] [Uva 00661](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=602)
@@ -71,7 +71,7 @@
 
 ## 資料結構與工具
 ### 線性資料結構
-- [ ] [Uva 00230](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=166)
+- [X] [Uva 00230](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=166)
 - [ ] [Uva 00394](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=330)
 - [ ] [Kattis divideby100](https://open.kattis.com/problems/divideby100)
 - [ ] [Kattis erase](https://open.kattis.com/problems/erase)
