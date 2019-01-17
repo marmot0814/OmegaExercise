@@ -26,7 +26,7 @@
 - [X] [Kattis earlywinter](https://open.kattis.com/problems/earlywinter)
 - [X] [Kattis hangingout](https://open.kattis.com/problems/hangingout)
 ### 比簡單題難一些
-- [ ] [Uva 00119](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=55)
+- [X] [Uva 00119](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=55)
 - [ ] [Uva 00661](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=602)
 - [ ] [Uva 10141](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=1082)
 - [ ] [Uva 10324](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=1265)
@@ -40,7 +40,7 @@
 ## 雜題
 時間若夠，每天寫一雜題鍛鍊實做。
 ### 各種瑣碎
-- [ ] [Uva 00162](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=98)
+- [X] [Uva 00162](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=98)
 - [ ] [Kattis bela](https://open.kattis.com/problems/bela)
 - [ ] [Uva 10196](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=1137)
 - [ ] [Kattis bijele](https://open.kattis.com/problems/bijele)
