@@ -27,7 +27,7 @@
 - [X] [Kattis hangingout](https://open.kattis.com/problems/hangingout)
 ### 比簡單題難一些
 - [X] [Uva 00119](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=55)
-- [ ] [Uva 00661](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=602)
+- [X] [Uva 00661](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=602)
 - [ ] [Uva 10141](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=1082)
 - [ ] [Uva 10324](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=1265)
 - [ ] [Uva 10424](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=1365)
@@ -41,7 +41,7 @@
 時間若夠，每天寫一雜題鍛鍊實做。
 ### 各種瑣碎
 - [X] [Uva 00162](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=98)
-- [ ] [Kattis bela](https://open.kattis.com/problems/bela)
+- [X] [Kattis bela](https://open.kattis.com/problems/bela)
 - [ ] [Uva 10196](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=1137)
 - [ ] [Kattis bijele](https://open.kattis.com/problems/bijele)
 - [ ] [Uva 00340](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=276)
@@ -58,7 +58,7 @@
 - [ ] [Kattis bestbefore](https://open.kattis.com/problems/bestbefore)
 ### 時間太多專用
 要提昇實作能力，就要時間很多。
-- [ ] [Uva 00144](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=80)
+- [X] [Uva 00144](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=80)
 - [ ] [Uva 00214](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=150)
 - [ ] [Uva 00335](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=271)
 - [ ] [Uva 00337](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=273)
@@ -95,7 +95,7 @@
 - [ ] [Kattis coconut](https://open.kattis.com/problems/coconut)
 ### 非線性資料結構
 - [X] [Uva 01203](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=3644)
-- [ ] [Uva 11995](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=3146)
+- [X] [Uva 11995](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=3146)
 - [ ] [Kattis vegetables](https://open.kattis.com/problems/vegetables)
 - [ ] [Kattis rationalsequence3](https://open.kattis.com/problems/rationalsequence3)
 - [ ] [Uva 00755](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=696)
@@ -122,7 +122,7 @@
 ## 基本解題方法
 ### 暴力
 - [X] [Uva 10128](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=1069)
-- [ ] [Kattis cardtrick2](https://open.kattis.com/problems/cardtrick2)
+- [X] [Kattis cardtrick2](https://open.kattis.com/problems/cardtrick2)
 - [ ] [Kattis lastfactorialdigit](https://open.kattis.com/problems/lastfactorialdigit)
 - [ ] [Uva 10976](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=1917)
 - [ ] [Kattis anotherbrick](https://open.kattis.com/problems/anotherbrick)
@@ -145,14 +145,14 @@
 - [ ] [Kattis pagelayout](https://open.kattis.com/problems/pagelayout)
 ### 分治
 - [X] [Kattis roompainting](https://open.kattis.com/problems/roompainting)
-- [ ] [Uva 00957](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=898)
+- [X] [Uva 00957](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=898)
 - [ ] [Kattis smallschedule](https://open.kattis.com/problems/smallschedule)
 - [ ] [Uva 12190](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=3342)
 - [ ] [Kattis sylvester](https://open.kattis.com/problems/sylvester)
 - [ ] [Kattis a1paper](https://open.kattis.com/problems/a1paper)
 ### 貪婪
 - [X] [Uva 12405](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=3836)
-- [ ] [Kattis color](https://open.kattis.com/problems/color)
+- [X] [Kattis color](https://open.kattis.com/problems/color)
 - [ ] [Uva 13031](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=4919)
 - [ ] [Kattis pikemaneasy](https://open.kattis.com/problems/pikemaneasy)
 - [ ] [Kattis textmessaging](https://open.kattis.com/problems/textmessaging)
@@ -164,7 +164,7 @@
 - [ ] [Uva 12516](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=3961)
 ### 低批
 - [X] [Uva 12640](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=4388)
-- [ ] [Uva 13095](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=4993)
+- [X] [Uva 13095](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=4993)
 - [ ] [Kattis longincsubseq](https://open.kattis.com/problems/longincsubseq)
 - [ ] [Uva 11368](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=2353)
 - [ ] [Kattis ninepacks](https://open.kattis.com/problems/ninepacks)
@@ -181,7 +181,7 @@
 ## 圖論
 ### 遍歷
 - [X] [Kattis faultyrobot](https://open.kattis.com/problems/faultyrobot)
-- [ ] [Uva 12376](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=3798)
+- [X] [Uva 12376](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=3798)
 - [ ] [Kattis amoebas](https://open.kattis.com/problems/amoebas)
 - [ ] [Kattis moneymatters](https://open.kattis.com/problems/moneymatters)
 - [ ] [Uva 11749](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=2849)
@@ -196,13 +196,13 @@
 - [ ] [Uva 10731](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=1672)
 ### 最小生成樹
 - [X] [Uva 01174](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=3615)
-- [ ] [Uva 11857](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=2957)
+- [X] [Uva 11857](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=2957)
 - [ ] [Kattis lostmap](https://open.kattis.com/problems/lostmap)
 - [ ] [Kattis muddyhike](https://open.kattis.com/problems/muddyhike)
 - [ ] [Uva 00534](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=475)
 ### 最短路
 - [X] [Kattis spiral](https://open.kattis.com/problems/spiral)
-- [ ] [Uva 10422](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=1363)
+- [X] [Uva 10422](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=1363)
 - [ ] [Kattis slikar](https://open.kattis.com/problems/slikar)
 - [ ] [Uva 00859](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=800)
 - [ ] [Kattis george](https://open.kattis.com/problems/george)
