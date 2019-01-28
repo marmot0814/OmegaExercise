@@ -28,14 +28,14 @@
 ### 比簡單題難一些
 - [X] [Uva 00119](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=55)
 - [X] [Uva 00661](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=602)
-- [ ] [Uva 10141](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=1082)
-- [ ] [Uva 10324](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=1265)
-- [ ] [Uva 10424](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=1365)
-- [ ] [Kattis armystrengtheasy](https://open.kattis.com/problems/armystrengtheasy)
-- [ ] [Kattis bossbattle](https://open.kattis.com/problems/bossbattle)
-- [ ] [Kattis bubbletea](https://open.kattis.com/problems/bubbletea)
-- [ ] [Kattis codecleanups](https://open.kattis.com/problems/codecleanups)
-- [ ] [Kattis deathtaxes](https://open.kattis.com/problems/deathtaxes)
+- [X] [Uva 10141](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=1082)
+- [X] [Uva 10324](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=1265)
+- [X] [Uva 10424](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=1365)
+- [X] [Kattis armystrengtheasy](https://open.kattis.com/problems/armystrengtheasy)
+- [X] [Kattis bossbattle](https://open.kattis.com/problems/bossbattle)
+- [X] [Kattis bubbletea](https://open.kattis.com/problems/bubbletea)
+- [X] [Kattis codecleanups](https://open.kattis.com/problems/codecleanups)
+- [X] [Kattis deathtaxes](https://open.kattis.com/problems/deathtaxes)
 
 ## 雜題
 時間若夠，每天寫一雜題鍛鍊實做。
