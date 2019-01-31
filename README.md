@@ -146,10 +146,10 @@
 ### 分治
 - [X] [Kattis roompainting](https://open.kattis.com/problems/roompainting)
 - [X] [Uva 00957](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=898)
-- [ ] [Kattis smallschedule](https://open.kattis.com/problems/smallschedule)
-- [ ] [Uva 12190](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=3342)
-- [ ] [Kattis sylvester](https://open.kattis.com/problems/sylvester)
-- [ ] [Kattis a1paper](https://open.kattis.com/problems/a1paper)
+- [X] [Kattis smallschedule](https://open.kattis.com/problems/smallschedule)
+- [X] [Uva 12190](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=3342)
+- [X] [Kattis sylvester](https://open.kattis.com/problems/sylvester)
+- [X] [Kattis a1paper](https://open.kattis.com/problems/a1paper)
 ### 貪婪
 - [X] [Uva 12405](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=3836)
 - [X] [Kattis color](https://open.kattis.com/problems/color)
