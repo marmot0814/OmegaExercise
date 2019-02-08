@@ -43,7 +43,7 @@
 - [X] [Uva 00162](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=98)
 - [X] [Kattis bela](https://open.kattis.com/problems/bela)
 - [ ] [Uva 10196](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=1137)
-- [ ] [Kattis bijele](https://open.kattis.com/problems/bijele)
+- [X] [Kattis bijele](https://open.kattis.com/problems/bijele)
 - [ ] [Uva 00340](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=276)
 - [ ] [Kattis gamerank](https://open.kattis.com/problems/gamerank)
 - [ ] [Uva 10353](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=1294)
@@ -172,11 +172,11 @@
 - [X] [Uva 12621](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=4344)
 - [X] [Uva 11137](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=2078)
 - [X] [Uva 00216](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=152)
-- [ ] [Kattis cycleseasy](https://open.kattis.com/problems/cycleseasy)
-- [ ] [Kattis permutationdescent](https://open.kattis.com/problems/permutationdescent)
-- [ ] [Uva 11407](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=2402)
-- [ ] [Uva 11026](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=1967)
-- [ ] [Uva 10036](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=977)
+- [X] [Kattis cycleseasy](https://open.kattis.com/problems/cycleseasy)
+- [X] [Kattis permutationdescent](https://open.kattis.com/problems/permutationdescent)
+- [X] [Uva 11407](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=2402)
+- [X] [Uva 11026](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=1967)
+- [ ] [Uva 10036 背包TLE](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=977)
 
 ## 圖論
 ### 遍歷
