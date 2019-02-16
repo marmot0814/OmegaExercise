@@ -67,7 +67,7 @@
 - [ ] [Kattis glitchbot](https://open.kattis.com/problems/glitchbot)
 - [ ] [Kattis interpreter](https://open.kattis.com/problems/interpreter)
 - [ ] [Kattis lumbercraft](https://open.kattis.com/problems/lumbercraft)
-- [ ] [Kattis saber](https://open.kattis.com/problems/saber)
+- [ ] [Kattis sabor](https://open.kattis.com/problems/sabor)
 
 ## 資料結構與工具
 ### 線性資料結構
